@@ -48,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+*.csv
+!scripts/data/import/raw/lookup_table.csv
